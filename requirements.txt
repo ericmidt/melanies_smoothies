@@ -2,3 +2,4 @@ streamlit==1.52.2
 snowflake-snowpark-python
 snowflake-connector-python
 pandas
+requests
